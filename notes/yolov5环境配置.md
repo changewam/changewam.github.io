@@ -1,7 +1,5 @@
 # yolov5环境配置
 
-**目录**
-
 [TOC]
 
 ## 配置
@@ -185,3 +183,7 @@ Anaconda默认下载源为国外源，如果使用国内网则速度很慢且容
 快捷键Ctrl+Shift+P，输入 Python:Select Interpret，选择对应环境
 
 ![image-20250111161918354](C:\Users\wangr\AppData\Roaming\Typora\typora-user-images\image-20250111161918354.png)
+
+## 补充说明
+
+因为完成配置后重新编写记录，期间话费时间较长，可能存在一些其他问题，建议查CSDN，绝大部分都能解决。
