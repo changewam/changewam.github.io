@@ -1,21 +1,17 @@
-### 欢迎使用Markdown
+# 学习笔记
 
-##### 新增图片上传功能
 
-现在可以在文章中插入图片！
 
-- 您可以插入外链图片，或上传本地图片到文档中。
-- 可上传的单张图片最大20M，支持PNG、JPG格式。
-- 若有其他疑问，欢迎咨询官网在线客服。
+记录一些曾经学会的知识：
 
- 
+曾经一定学过它们，不然写不出来这些笔记；
 
-### Welcome to the Markdown
+但也只是“曾经“学过，毕竟我现在可能或许大概已经不记得了……
 
-##### New feature! Insert pictures in your articles now!
+曾经和我又有什么关系呢？
 
-You can insert pictures from external links, or upload ones.
 
-The maximum size of the picture to upload is 20M. PNG and JPG are better.
 
-Have any other questions, please contact our official customer service.
+姑且算是自己学习的记录，也算是以后的复习资料。
+
+毕竟……子曰：学而时习之，不然会忘。
